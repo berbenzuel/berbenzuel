@@ -1,4 +1,12 @@
-## Hi there 👋
+Hello!
+
+I am Nik Žukov! :18 years old student of IT high scool.
+
+Now, I am working on a file explorer written in Rust and Slint. -> (=[swallow])
+
+I'm a musician too btw.
+
+
 
 <!--
 **berbenzuel/berbenzuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
