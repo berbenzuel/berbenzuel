@@ -1,8 +1,8 @@
 Hello!
 
-I am Nik Žukov! :18 years old student of IT high scool.
+I am Nik Žukov! :18 years old student of IT high scool where I have learnt C#, HTML/CSS, JS/TS, SQL/MYSQL, ASP.NET.. idk I have slept :)
 
-Now, I am working on a file explorer written in Rust and Slint. -> (=[swallow])
+Now, I am working on a file explorer written in Rust and Slint. 
 
 I'm a musician too btw.
 
