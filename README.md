@@ -1,7 +1,8 @@
 Hello!
 
-I am Nik Žukov! :18 years old student of IT high scool where I have learnt C#, HTML/CSS, JS/TS, SQL/MYSQL, ASP.NET.. idk I have slept :)
+I am Nik Žukov! :18 years old student of IT high scool where I have learnt C#, HTML/CSS, JS/TS, SQL/MYSQL and ASP.NET.
 
+In my free time, I code in rust, and c++.
 Now, I am working on a file explorer written in Rust and Slint. 
 
 I'm a musician too btw.
